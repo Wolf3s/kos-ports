@@ -13,8 +13,8 @@ PORT_BUILD =        cmake
 NOCOPY_TARGET =     1
 
 # What files we need to download, and where from.
-GIT_REPOSITORY =    https://github.com/Wolf3s/libsmb2.git
-GIT_BRANCH = cmake
+GIT_REPOSITORY =    https://github.com/sahlberg/libsmb2.git
+GIT_BRANCH = master
 HDR_FULLDIR =       libsmb2
 TARGET =            libsmb2.a
 EXAMPLES_DIR =      examples
